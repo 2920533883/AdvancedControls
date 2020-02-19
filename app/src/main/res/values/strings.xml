@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdvancedControls</string>
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+    <string name="hint">输入搜索内容</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+</resources>
